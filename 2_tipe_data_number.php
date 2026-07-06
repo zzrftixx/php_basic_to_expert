@@ -46,4 +46,11 @@ Fungsi ini sangat berguna untuk debugging dan memahami struktur data dalam progr
     echo "contoh tipe data number";
     echo "float point underscore di number: ";
     var_dump(1.234_567_89); // float point underscore di number = menampilkan tipe data dan nilai dari variabel float
+
+    // ada yang namanya integer overflow, yaitu ketika nilai integer melebihi batas maksimum yang dapat ditampung oleh tipe data integer. Dalam kasus ini, PHP akan mengubah tipe data menjadi float secara otomatis. Contoh:
+    
+    echo "contoh tipe data number";
+    echo "integer overflow: ";
+    var_dump(9223372036854775807); // integer overflow = menampilkan tipe data dan nilai dari variabel integer yang melebihi batas maksimum, sehingga diubah menjadi float
+    var_dump(9223372036854775808); // melebihi batas maksimum integer, sehingga diubah menjadi floating point
 ?>
