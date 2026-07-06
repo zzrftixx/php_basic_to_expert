@@ -30,8 +30,20 @@ Fungsi ini sangat berguna untuk debugging dan memahami struktur data dalam progr
     var_dump(1_234_567_89); // integer, underscore di number = menampilkan tipe data dan nilai dari variabel integer
     
     // tipe data float:
+    
+    echo "contoh tipe data number";
+    echo "float point";
+    var_dump(1.23456789); // float point = menampilkan tipe data dan nilai dari variabel float
 
     echo "contoh tipe data number";
-    echo "float, decimal: ";
-    var_dump(1.23456789); // float, decimal = menampilkan tipe data dan nilai dari variabel float
+    echo "float point, scientific notation plus: ";
+    var_dump(1.23456789e2); // float point, scientific notation = menampilkan tipe data dan nilai dari variabel float
+
+    echo "contoh tipe data number";
+    echo "float point, scientific notation: minus: ";
+    var_dump(1.23456789e-2); // float point, scientific notation: minus = menampilkan tipe data dan nilai dari variabel float
+
+    echo "contoh tipe data number";
+    echo "float point underscore di number: ";
+    var_dump(1.234_567_89); // float point underscore di number = menampilkan tipe data dan nilai dari variabel float
 ?>
