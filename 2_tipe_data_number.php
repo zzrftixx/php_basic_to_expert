@@ -42,4 +42,3 @@
     var_dump(9223372036854775807); // integer overflow = menampilkan tipe data dan nilai dari variabel integer yang melebihi batas maksimum, sehingga diubah menjadi floating point
     var_dump(9223372036854775808); // contoh melebihi batas maksimum integer, sehingga diubah menjadi floating point
 ?>
-
