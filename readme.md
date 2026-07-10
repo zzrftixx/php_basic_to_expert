@@ -44,8 +44,6 @@ bahkan website di dunia mayoritas menggunakan php.
 
 ## About
 
-@andraariesfi 
-
-
-portfolio pembelajaran php fundamental dari basic to expert dan terimakasih kepada [Programmer Zaman Now](https://www.youtube.com/@ProgrammerZamanNow) telah menjadi refrensi saya belajar
-[PHP credits page](https://www.php.net/credits.php).
+<b>@andraariesfi</b> <br>
+portfolio pembelajaran php fundamental dari basic to expert dan terimakasih kepada [Programmer Zaman Now](https://www.youtube.com/@ProgrammerZamanNow) telah menjadi refrensi saya belajar <br>
+<b>[PHP credits page](https://www.php.net/credits.php).<b>
