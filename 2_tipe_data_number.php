@@ -1,23 +1,23 @@
 <!-- 
-                            Tipe Data Number
+                        Tipe Data Number
 
-    tipe data number adalah sebuah tipe data yang banyak di gunakan untuk 
-    menyimpan nilai numerik atau angka. Tipe data ini dapat di bagi
-    menjadi beberapa jenis, yaitu:
+    tipe data number adalah sebuah tipe data yang banyak di gunakan 
+    untuk menyimpan nilai numerik atau angka. Tipe data ini dapat 
+    di bagi menjadi beberapa jenis, yaitu:
 
         1. int: Integer (bilangan bulat): 
-        Tipe data yang di gunakan untuk menyimpan bilangan bulat, baik
-        positif maupun negatif. Contoh 1, -5, 100, 0.
+        Tipe data yang di gunakan untuk menyimpan bilangan bulat, 
+        baik positif maupun negatif. Contoh 1, -5, 100, 0.
 
         2. float: Float (bilangan pecahan):
-        Tipe data yang di gunakan untuk menyimpan bilangan pecahan, seperti
-        positif maupun negatif. Contoh 1.5, -5.70, 100.0, 0. 
+        Tipe data yang di gunakan untuk menyimpan bilangan pecahan, 
+        seperti positif maupun negatif. Contoh 1.5, -5.70, 100.0, 0. 
     
     Note:
         var_dump(); adalah fungsi bawaan PHP yang di gunakan untuk 
-        menampilkan informasi tentang tipe data dan nilai dari sebuah 
-        variabel. Fungsi ini sangat berguna untuk debugging dan memahami 
-        struktur data dalam program PHP.
+        menampilkan informasi tentang tipe data dan nilai dari 
+        sebuah variabel. Fungsi ini sangat berguna untuk debugging 
+        dan memahami struktur data dalam program PHP.
                                                                             -->
 
 <?php
