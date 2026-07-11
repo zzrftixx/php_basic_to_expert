@@ -1,5 +1,5 @@
 <!-- 
-                        Tipe Data Bolean
+                            Tipe Data Bolean
 
     Tipe data boolean adalah sebuah tipe data yang banyak di gunakan untuk 
     menyimpan nilai true atau false. Tipe data ini dapat di bagi

@@ -1,5 +1,5 @@
 <!-- 
-                        Tipe Data Number
+                            Tipe Data Number
 
     tipe data number adalah sebuah tipe data yang banyak di gunakan untuk 
     menyimpan nilai numerik atau angka. Tipe data ini dapat di bagi
