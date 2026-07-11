@@ -1,9 +1,9 @@
 <!-- 
                             Tipe Data Bolean
 
-    Tipe data boolean adalah sebuah tipe data yang banyak di gunakan untuk 
-    menyimpan nilai true atau false. Tipe data ini dapat di bagi
-    menjadi beberapa jenis, yaitu:
+    Tipe data boolean adalah sebuah tipe data yang banyak di gunakan 
+    untuk menyimpan nilai true atau false. Tipe data ini dapat di 
+    bagi menjadi beberapa jenis, yaitu:
 
         1. true: Benar (true): 
         Tipe data yang di gunakan untuk menyimpan nilai benar. 
@@ -15,10 +15,10 @@
     
     Note:
         var_dump(); adalah fungsi bawaan PHP yang di gunakan untuk 
-        menampilkan informasi tentang tipe data dan nilai dari sebuah 
-        variabel. Fungsi ini sangat berguna untuk debugging dan memahami 
-        struktur data dalam program PHP.
-                                                                            -->
+        menampilkan informasi tentang tipe data dan nilai dari 
+        sebuah variabel. Fungsi ini sangat berguna untuk debugging 
+        dan memahami struktur data dalam program PHP.
+                                                                    -->
 
 <?php
     echo "contoh tipe data boolean true\n";
