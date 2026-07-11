@@ -29,6 +29,7 @@
     $berat = 70.5; // variable float menampilkan tipe data dan nilai dari variabel float $berat
     $hobi = "Membaca"; // variable string menampilkan tipe data dan nilai dari variabel string $hobi
     $belajar = "php"; // variable string menampilkan tipe data dan nilai dari variabel string $belajar
+    $apakah_saya_sedang_belajar = true; // variable boolean menampilkan tipe data dan nilai dari variabel boolean $apakah_saya_sedang_belajar
 
     var_dump($nama);
     var_dump($umur);
@@ -42,7 +43,10 @@
     Nama saya $nama saya tinggal di australia, saya berumur $umur tahun, dan memiliki 
     tinggi badan $tinggi cm, berat badan saya $berat kg, hobi saya adalah $hobi, dan 
     saya sedang belajar bahasa pemrograman $belajar.
-    
+
+    dan apakah saya sedang belajar bahasa pemrograman $belajar? 
+    jawabannya adalah ($apakah_saya_sedang_belajar)/benar.
+
     HEREDOC;
 
     echo "\n";
