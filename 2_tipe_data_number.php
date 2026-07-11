@@ -18,7 +18,7 @@
         menampilkan informasi tentang tipe data dan nilai dari 
         sebuah variabel. Fungsi ini sangat berguna untuk debugging 
         dan memahami struktur data dalam program PHP.
-                                                                            -->
+                                                                    -->
 
 <?php
     echo "--- Integer --- \n";
