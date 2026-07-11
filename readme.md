@@ -26,7 +26,7 @@ bahkan website di dunia mayoritas menggunakan php.
 1. [tipe data boolean.php](3_tipe_data_boolean.php)
 1. [tipe data string.php](4_tipe_data_string.php)
 1. [variable.php](5_variable.php)
-1. [.php]()
+1. [constant.php](6_constant.php)
 1. [.php]()
 1. [.php]()
 1. [.php]()
