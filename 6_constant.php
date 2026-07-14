@@ -1,26 +1,33 @@
 <!-- 
                             Constanta dan Variable
 
-    Variable adalah sebuah tempat untuk menyimpan data atau nilai sementara dalam
-    program. Variable dapat menyimpan berbagai jenis tipe data, seperti string,
-    integer, float, boolean, array, dan lain-lain. Variable dapat diubah nilainya
-    selama program berjalan, sehingga dapat digunakan untuk menyimpan data yang
-    bersifat dinamis. 
+    constant adalah variable yang nilai nya tidak dapat di ubah atau bisa disebut
+    imutable, constant di PHP dapat di buat dengan menggunakan define() atau 
+    const.
 
-    Namun ada yang unik di PHP, yaitu variable di PHP tidak perlu di deklarasikan 
-    tipe datanya, karena PHP adalah bahasa pemrograman yang bersifat loosely 
-    typed. Artinya, kita tidak perlu menentukan tipe data dari sebuah variable 
-    saat membuatnya. PHP akan secara otomatis menentukan tipe data dari variable 
-    berdasarkan nilai yang diberikan.
+    bedanya dengan variable dia dapat di ubah value atau nialai nya, sedangkan 
+    constant tidak dapat di ubah value atau nilainya. constant juga dapat di 
+    akses di seluruh scope, sedangkan variable hanya dapat di akses di scopenya 
+    sendiri.
 
-    Dan ada juga namnanya variable variables, yaitu sebuah variable yang namanya 
-    diambil dari nilai variable lain.
+    biasanya constant di gunakan untuk menyimpan nilai yang tidak akan berubah 
+    selama program berjalan, seperti nama aplikasi, versi aplikasi, dan 
+    lain-lain.
 
     Note:
-        contoh variable di PHP selalu diawali dengan tanda dollar ($) diikuti 
-        dengan nama variable.
+        contoh perintah constanta di PHP selalu diawali dengan define() dengan 
+        nama constanta.
+        Contoh: define('NAMA_CONSTANT', 'nilai constant');
                                                                                     -->
 
 <?php
-    
+    echo " --------------------- Constanta --------------------- \n\n";
+    define("version_android", 10.0);
+    $verion_android = version_android; // variable menampilkan tipe data dan nilai dari variabel constant version_android
+
+    echo <<<HEREDOC
+        Version android kamu saat ini adalah
+        $verion_android, dan versi android 
+        ini tidak dapat di ubah nilainya.
+    HEREDOC;
 ?>
