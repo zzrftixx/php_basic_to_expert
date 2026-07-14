@@ -28,7 +28,7 @@ bahkan website di dunia mayoritas menggunakan php.
 1. [variable.php](5_variable.php)
 1. [constant.php](6_constant.php)
 1. [data null.php](7_data_null.php)
-1. [tipe data array.php]()
+1. [tipe data array.php](8_tipe_data_array.php)
 1. [.php]()
 1. [.php]()
 1. [.php]()
